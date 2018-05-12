@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8524
     wikipedia: http://en.wikipedia.org/wiki/William_M._Evarts
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19165#Eulogy-on-Chief-Justice-ChaseDartmouth-College-at-Hanover
 gutenberg_issued: '2006-09-03'
 gutenberg_type: Text
 identifiers:
